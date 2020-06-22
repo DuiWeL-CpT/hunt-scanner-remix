@@ -1,0 +1,12 @@
+Uuid: 059343223d094d16a0a8440485bc5c5e
+ExtensionType: 1
+Name: Hunt Scanner Remix
+RepoName: hunt-scanner-remix
+ScreenVersion: 0.1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: BugCrowd
+ShortDescription: Passively scan for potentially vulnerable parameters. 
+EntryPoint: build/libs/hunt-scanner-remix.jar
+BuildCommand: gradle build jar
